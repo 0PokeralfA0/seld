@@ -1,10 +1,10 @@
 dofile('./bot/utils.lua')
-my = 'SudoID'
+my = '256576176'
 URL = require('socket.url')
 http = require('socket.http')
 https = require('ssl.https')
 json = dofile('./libs/JSON.lua')
-CerNerCompany = 'اختصاصی کرنر کمپانی '
+CerNerCompany = 'اختصاصی کرنر پوکر '
 serpent = dofile("./libs/serpent.lua")
 tdbot = dofile("./bot/function.lua")
 --MsgTime = os.time() - 60
